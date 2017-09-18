@@ -1,3 +1,38 @@
-body{
-    font-family: 'Lato', sans-serif;
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2d3c49;
+}
+
+h2{
+    color: #7d97ad;
+    font-weight: bold;
+    text-align: left;
+}
+
+hr {
+    border-style: double;
+    border-color: #7d97ad;
+}
+
+h1 {
+    text-align: right;
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+div#banner {
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+#main {
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
